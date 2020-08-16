@@ -21,5 +21,5 @@ github_username:  rezam1998
 markdown: kramdown
 plugins:
   - jekyll-remote-theme
-remote_theme: pmarsceill/just-the-docs
+remote_theme: benbalter/retlab
 
