@@ -19,7 +19,7 @@ email: rezamohammadi.edu@gmail.com
 description: "My personal webpage to share what I learn and what I do!"
 baseurl: "/blog" # the optional subpath of your site, e.g. "/blog"
 url: "rezam1998.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author: Reza Mohammdadi
+author: 
   name: Reza Mohammadi
   twitter: 
   picture:
